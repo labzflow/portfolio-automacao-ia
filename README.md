@@ -1,5 +1,7 @@
 # Portfólio — Automação & Agentes de IA no WhatsApp
 
+🇧🇷 **Português** | 🇬🇧 [English](README.en.md)
+
 Agentes conversacionais de IA **em produção** para pequenos negócios, construídos em **n8n** integrando LLMs, WhatsApp, bancos de dados e APIs de calendário/mídia.
 
 > ⚠️ **Privacidade & anonimização**

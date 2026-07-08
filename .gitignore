@@ -1,0 +1,17 @@
+# Segredos e credenciais — NUNCA versionar
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+secrets*.json
+
+# Exports crus de workflow n8n (podem conter tokens/telefones/e-mails)
+*workflow*.json
+raw/
+exports/
+
+# Sistema / dependências
+node_modules/
+.DS_Store
+Thumbs.db

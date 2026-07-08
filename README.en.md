@@ -17,7 +17,7 @@ Each agent is a WhatsApp assistant serving customers 24/7: it understands natura
 |---|---|---|---|
 | **[Priscila](projetos/priscila.en.md)** | Barbershop | Booking / rescheduling / cancellation on WhatsApp, calendar integration, RAG pricing, human handoff | ✅ Production |
 | **[Nina](projetos/nina.en.md)** | Tattoo studio | Multimodal lead triage (text/audio/image), FAQ, portfolio delivery, moderation, long-term memory | ✅ Production |
-| **EVA** | — | Documentation in progress | 🔜 |
+| **[EVA](projetos/eva.en.md)** | Dental supplies (B2B) | B2B service to dentists: RAG pricing/quotes, order assembly, catalog, handoff to salesperson | ✅ Production |
 
 ---
 

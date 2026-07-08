@@ -17,7 +17,7 @@ Cada agente é um assistente de WhatsApp que atende clientes 24/7: entende lingu
 |---|---|---|---|
 | **[Priscila](projetos/priscila.md)** | Barbearia | Agendamento / reagendamento / cancelamento no WhatsApp, com calendário, preços via RAG e handoff humano | ✅ Produção |
 | **[Nina](projetos/nina.md)** | Estúdio de tatuagem | Triagem multimodal de leads (texto/áudio/imagem), FAQ, envio de portfólio, moderação e memória de longo prazo | ✅ Produção |
-| **EVA** | — | Documentação em preparação | 🔜 |
+| **[EVA](projetos/eva.md)** | Materiais odontológicos (B2B) | Atendimento B2B a dentistas: cotação/preços via RAG, montagem de pedido, catálogo e handoff para vendedor | ✅ Produção |
 
 ---
 

@@ -18,6 +18,9 @@ Each agent is a WhatsApp assistant serving customers 24/7: it understands natura
 | **[Priscila](projetos/priscila.en.md)** | Barbershop | Booking / rescheduling / cancellation on WhatsApp, calendar integration, RAG pricing, human handoff | ✅ Production |
 | **[Nina](projetos/nina.en.md)** | Tattoo studio | Multimodal lead triage (text/audio/image), FAQ, portfolio delivery, moderation, long-term memory | ✅ Production |
 | **[EVA](projetos/eva.en.md)** | Dental supplies (B2B) | B2B service to dentists: RAG pricing/quotes, order assembly, catalog, handoff to salesperson | ✅ Production |
+| **[Dispara-Zap](projetos/dispara-zap.en.md)** | SaaS / Marketing | Multi-tenant WhatsApp campaign platform with cadence, telemetry-based anti-ban and whitelabel | ✅ Production |
+| **[ICA Avaliações](projetos/ica-avaliacoes.en.md)** | Technical appraisals | Appraisal-report SPA with per-evaluator multi-tenancy (Supabase RLS), PDF and verification QR | ✅ Production |
+| **[SDR Previdenciário](projetos/sdr-previdenciario.en.md)** | Social-security law | Code-based SDR agent for lead qualification + WhatsApp scheduling, with guardrails | 🛠️ In development |
 
 ---
 

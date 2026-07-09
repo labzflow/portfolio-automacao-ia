@@ -18,6 +18,9 @@ Cada agente é um assistente de WhatsApp que atende clientes 24/7: entende lingu
 | **[Priscila](projetos/priscila.md)** | Barbearia | Agendamento / reagendamento / cancelamento no WhatsApp, com calendário, preços via RAG e handoff humano | ✅ Produção |
 | **[Nina](projetos/nina.md)** | Estúdio de tatuagem | Triagem multimodal de leads (texto/áudio/imagem), FAQ, envio de portfólio, moderação e memória de longo prazo | ✅ Produção |
 | **[EVA](projetos/eva.md)** | Materiais odontológicos (B2B) | Atendimento B2B a dentistas: cotação/preços via RAG, montagem de pedido, catálogo e handoff para vendedor | ✅ Produção |
+| **[Dispara-Zap](projetos/dispara-zap.md)** | SaaS / Marketing | Plataforma multi-tenant de campanhas WhatsApp com cadência, anti-ban por telemetria e whitelabel | ✅ Produção |
+| **[ICA Avaliações](projetos/ica-avaliacoes.md)** | Avaliações técnicas | SPA de pareceres/laudos com multi-tenancy por avaliador (Supabase RLS), PDF e QR de verificação | ✅ Produção |
+| **[SDR Previdenciário](projetos/sdr-previdenciario.md)** | Advocacia previdenciária | Agente SDR (em código) de qualificação de leads + agendamento no WhatsApp, com guardrails | 🛠️ Em desenvolvimento |
 
 ---
 
